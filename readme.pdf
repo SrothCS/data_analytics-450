@@ -1,0 +1,2 @@
+The desciptions of the text is used for extracting the information of countries financial status and uploading it as a graph.
+I used pandas to load the data and extract the data then using seaborn and matholib, i generated 4 graphs.
